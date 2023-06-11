@@ -26,10 +26,7 @@ public class StringListImplTest {
         out.add("poka");
     }
 
-    //    @AfterEach
-//    void AfterEach() {
-//
-//    }
+
     @Test
     void addTest() {
         String[] expected = {"hi", "ok"};
